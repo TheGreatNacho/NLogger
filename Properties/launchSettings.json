@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "NLogger": {
+      "commandName": "Project"
+    },
+    "NLoggerTester": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\TheGreatNacho\\source\\repos\\NLoggerTester\\bin\\Debug\\NLoggerTester.exe"
+    }
+  }
+}
